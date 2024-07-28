@@ -12,7 +12,7 @@ The source code for this project is available at [GitHub Repository](https://git
 
 This project is built using the following technologies:
 
-- **Framework**: 
+- **Framework**: React js
 - **Major Plugins and Packages**:
   - `react-table`: For table functionalities.
   - `chart.js`: For charting and data visualization.
