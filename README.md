@@ -2,7 +2,7 @@
 
 ## Live Link
 
-You can view the live version of the application [here](https://suryansh-supply-chain.netlify.app/products).
+You can view the live version of the application [here](https://suryansh-supply-chain.netlify.app).
 
 ## GitHub Repository
 
